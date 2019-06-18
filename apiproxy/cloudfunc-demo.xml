@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="cloudfunc-demo">
+    <Basepaths>/cloudfunc-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1560860702889</CreatedAt>
+    <CreatedBy>dknezic+apigee@google.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>cloudfunc-demo</DisplayName>
+    <LastModifiedAt>1560861442306</LastModifiedAt>
+    <LastModifiedBy>dknezic+apigee@google.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:60536cef7dece8b5b178ee393def289651a75cd70c1351f76595d401813eb0765d4c39b1c53cee6ea83ae5a23bfb7c599079d1760a2baf52f008c7b79c8b3694</ManifestVersion>
+    <Policies>
+        <Policy>Ext-HelloWorld</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
