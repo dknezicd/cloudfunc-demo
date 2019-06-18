@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ConnectorCallout async="false" continueOnError="true" enabled="true" name="Ext-HelloWorld">
+    <DisplayName>Ext.HelloWorld</DisplayName>
+    <Connector>Hello-world</Connector>
+    <Action>invoke</Action>
+    <Input><![CDATA[
+  {
+    "region" : "us-central1",
+    "projectId" : "apigeedemo-project",
+    "functionName" : "hello-world",
+    "method" : "GET"
+  }
+]]></Input>
+    <Output>response.content</Output>
+</ConnectorCallout>
