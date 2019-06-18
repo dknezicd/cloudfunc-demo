@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Ext-HelloWorld" version="SHA-512:f467b1c6f5c9096f75b4e00cea9c277365e6e45143f608f04c90e77ff1d36035ff8e666629aef8dab76102801bea93b595410e507d2bbb0166da551fa5138bd0"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:79c6c2b7ac5516d6f672b40ddaa610d2488d7dd291d245bf88db19f68214a4e5343352422e3f8d86a4814af4821a2becee3159f74061a3eb9e8140bceaa6ce3a"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
